@@ -5,7 +5,7 @@
 Welcome to MedInsight, an innovative platform dedicated to advancing maternal and foetal health through predictive analysis. MedInsight empowers healthcare professionals and users alike by providing accurate predictions and proactive risk management related to pregnancy.
 
 ### Webapp URL
-MedInsight: [MedInsight link]()
+MedInsight: [MedInsight link](https://medinsight.streamlit.app/)
 
 ### Datasets Used
 
